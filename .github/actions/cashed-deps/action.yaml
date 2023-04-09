@@ -1,5 +1,5 @@
-name: 'action'
-desctiption: 'det the dependence'
+name: 'create new action'
+description: 'det the dependence'
 runs:
   using: 'composite'
   steps:
